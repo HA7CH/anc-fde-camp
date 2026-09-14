@@ -18,7 +18,9 @@ FDE Camp is HA7CH Academy's two-day in-person field training for FDEs and AI Bui
 
 ## Current Beijing cohort
 
-As of 2026-09-04:
+Cohort status confirmed on 2026-09-14: the Shenzhen cohort ended on 2026-09-13. The next cohort is Beijing, starting on 2026-09-26. Do not present the Shenzhen cohort as upcoming or open for registration.
+
+The following Beijing logistics were published as of 2026-09-04; the new confirmation does not change the other published details:
 
 - Date: 2026-09-26 to 2026-09-27
 - City: Beijing
