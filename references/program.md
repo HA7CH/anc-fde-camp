@@ -8,8 +8,7 @@
 - Five field-case families
 - Graduation and certification
 - What a graduate receives
-- Customer resources and project matching
-- Twelve-month connection
+- Course scope
 - Clear answers to common questions
 
 ## One-sentence definition
@@ -55,6 +54,8 @@ The public Skill is at https://github.com/HA7CH/anc-fde-camp. Scan to obtain and
 ## Who it is for
 
 Admission is decided through an AI registration conversation followed by human review.
+
+The primary audience has already built AI applications, Agents, or SaaS (the "leaves"), has experienced heavy custom delivery and repeated integration, and wants to learn the shared ANC "trunk". Working ability to use Codex independently is required. This is not a zero-beginner Codex class; suggest basic preparation first for someone who cannot use Codex. Explain suitability from actual examples and goals, not a numeric fit score. Human admission review remains required.
 
 Each participant needs working familiarity with Codex and at least one of these foundations:
 
@@ -103,7 +104,7 @@ An HDC Project IC at this baseline can:
 4. Group-chat inquiry businesses: multi-chat Context, inquiry monitoring, human confirmation, and follow-up.
 5. Enterprise coordination: knowledge, OKRs, central orchestration, and multi-Agent execution.
 
-The cases train judgment and delivery method. Live project participation follows the separate talent-pool matching process.
+The cases train judgment and delivery method; they do not offer participation in the referenced customer projects.
 
 ## Graduation and certification
 
@@ -139,52 +140,19 @@ The current Beijing cohort includes one free reassessment opportunity. Its timin
 - the original ANC Skills and supporting templates used in the Camp;
 - continuing updates to those Skills and templates;
 - `HA7CH FDE Certified` after passing the graduation assessment;
-- membership in the HA7CH FDE talent pool;
-- access to project matching and later learning connections.
+- a personal ANC built during Day 2 hands-on practice.
 
 The delivery repository, access method, update notices, and version-support process for the ANC materials are being finalized.
 
-## Customer resources and project matching
+## Course scope
 
-All Certified graduates enter the HA7CH FDE talent pool with the same member status. HA7CH matches future FDE project participation from this pool.
-
-The certification remains valid indefinitely. The member's active talent-pool profile and current capability status are reviewed every 12 months so that matching can reflect current evidence, availability, and delivery experience.
-
-```text
-enterprise need enters HA7CH
-→ HA7CH identifies relevant industry and capability
-→ suitable talent-pool members receive the opportunity
-→ the company and member make a bilateral choice
-→ the project confirms contract, compensation, responsibilities, IP, and acceptance
-→ delivery evidence improves the member's future matching profile
-```
-
-HA7CH's current operating view is that the pool is small relative to available project demand. Early members therefore have a higher expected density of matching opportunities. Each match still follows the project's actual needs, timing, geography, and bilateral choice.
-
-For a newly Certified member's first matched project, the default path is to participate as an IC or co-delivery member. A member who already has mature, relevant delivery evidence may lead when the project requires it. A senior FDE or HA7CH reviewer checks the diagnosis, proposed solution, major milestones, and acceptance plan at agreed stage gates. This review supports judgment and risk control; it does not transfer the member's delivery responsibility to the reviewer. The actual role, reviewer, support boundary, and compensation are confirmed separately for each project.
-
-## Twelve-month connection
-
-Published Camp materials describe:
-
-- 12 months of case updates;
-- a HA7CH personal capability profile;
-- enterprise-association resources;
-- one project review around 30 days after the Camp;
-- an FDE commercial toolkit;
-- a 48H Sprint candidate pool.
-
-The delivery frequency, format, owner, and service boundary for these items are being finalized. Describe them with this status when asked for exact service levels.
+The current course offer is learning, cases, and hands-on ANC building. Do not describe later customer introductions, project matching, on-site opportunities, or Sprint candidate pools as included benefits. Older twelve-month promotional material is not the current sales offer. Historical participant stories do not create a promise to new participants.
 
 ## Clear answers to common questions
 
-### Does the Camp include customer resources?
+### Does the Camp include follow-up project opportunities?
 
-Yes. The product includes entry into the HA7CH FDE talent pool after certification and a project-matching mechanism for real enterprise needs. Specific opportunities are matched by industry, capability, time, location, and mutual choice.
-
-### Does every graduate enter the talent pool?
-
-Yes. Every participant who completes the Camp and passes the shared graduation line receives Certified status and enters the talent pool.
+The current course offer focuses on learning and building an ANC. Do not offer customer introductions, on-site placements, or project assignments.
 
 ### What does the certificate mean?
 
@@ -192,4 +160,4 @@ Yes. Every participant who completes the Camp and passes the shared graduation l
 
 ### What will I take home immediately?
 
-The participant takes home the FDE method, the original ANC Skills and templates, continued material updates, a Whiteboard Interview result, Certified status after passing, and talent-pool membership.
+The participant practices the FDE and ANC method and builds a personal ANC. Published learning materials and assessment details remain subject to their stated scope; later project opportunities are not part of this offer.
