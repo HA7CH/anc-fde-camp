@@ -1,6 +1,6 @@
 # HA7CH FDE Camp
 
-An open Agent Skill that introduces HA7CH FDE Camp and answers prospective-participant questions about the story, FDE and ANC methods, requirements, curriculum, Whiteboard Interview, certification, talent pool, customer resources, project matching, and current cohort.
+An open Agent Skill that introduces HA7CH FDE Camp and answers prospective-participant questions about the story, FDE and ANC methods, requirements, curriculum, Whiteboard Interview, certification, suitability, hands-on ANC building, and current cohort.
 
 The conversation starts with why HA7CH came here and what it did before, then explains how the Camp turns that field experience into a training and project path.
 
@@ -18,7 +18,7 @@ npx skills add HA7CH/anc-fde-camp --skill fde-camp
 
 After installation, ask the Agent:
 
-> Use $fde-camp to introduce HA7CH FDE Camp and answer my questions about requirements, curriculum, certification, customer resources, and project opportunities.
+> Use $fde-camp to introduce HA7CH FDE Camp and answer my questions about whether my existing AI application experience and delivery challenges fit the Camp, what Codex skills I need, and what I will build.
 
 The Skill is also available through `/fde-camp` in environments that expose installed Skills as slash commands.
 
@@ -31,7 +31,8 @@ The Skill is also available through `/fde-camp` in environments that expose inst
 - Two-day, one-night curriculum and field cases
 - HA7CH FDE Whiteboard Interview
 - HA7CH FDE Certified
-- Talent-pool entry and customer-project matching
+- Suitability for builders facing heavy custom delivery
+- Day 2: build your own ANC
 - One anonymized zero-cohort field case
 - Current cohort facts and registration route
 
