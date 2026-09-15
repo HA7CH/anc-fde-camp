@@ -55,7 +55,7 @@ The public Skill is at https://github.com/HA7CH/anc-fde-camp. Scan to obtain and
 
 Admission is decided through an AI registration conversation followed by human review.
 
-The primary audience has already built AI applications, Agents, or SaaS (the "leaves"), has experienced heavy custom delivery and repeated integration, and wants to learn the shared ANC "trunk". Working ability to use Codex independently is required. This is not a zero-beginner Codex class; suggest basic preparation first for someone who cannot use Codex. Explain suitability from actual examples and goals, not a numeric fit score. Human admission review remains required.
+The primary audience has already built AI applications, Agents, or SaaS (the "leaves"), has experienced heavy custom delivery and repeated integration, and wants to learn the shared ANC "trunk". Working ability to use Codex independently is required. This is not a zero-beginner Codex class; recommend Hatch School first for someone who cannot yet use Codex independently. Do not invent Hatch School pricing, schedule, curriculum or enrollment links. Explain suitability from actual examples and goals, not a numeric fit score. Human admission review remains required.
 
 Each participant needs working familiarity with Codex and at least one of these foundations:
 
