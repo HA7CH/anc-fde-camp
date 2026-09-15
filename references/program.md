@@ -24,7 +24,9 @@ The following Beijing logistics were published as of 2026-09-04; the new confirm
 
 - Date: 2026-09-26 to 2026-09-27
 - City: Beijing
-- Format: two-day in-person intensive Camp; no evening course
+- Format: two days and one night (两天一夜); accommodation is not included.
+- Day 1 focus: lectures and case discussion on ANC and enterprise AI collaboration.
+- Day 2 focus: hands-on practice; each participant builds their own ANC.
 - Day 1: check-in at 09:30; course from 10:00 to 18:00
 - Day 2: course from 09:00 to 17:30
 - Cohort size: no more than 24 participants
@@ -43,6 +45,12 @@ The following Beijing logistics were published as of 2026-09-04; the new confirm
 - Exact venue, registration contact, payment process, invoicing, and any transaction-fee treatment: being finalized
 
 Treat these as time-sensitive published details and encourage the participant to confirm the latest logistics before payment or travel.
+
+## Reusable poster and current consultation
+
+Organizer update: use `anc CAMP` as the reusable poster title. Posters show duration and price, not city or calendar dates. Current Beijing consultation remains September 26–27, 2026. Poster copy must not offer follow-up project introductions or on-site placement.
+
+The public Skill is at https://github.com/HA7CH/anc-fde-camp. Scan to obtain and load the Skill, then discuss personal readiness; this is advice, not automatic admission. Registration WeChat: `lawted`.
 
 ## Who it is for
 
