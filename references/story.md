@@ -62,7 +62,7 @@ The repeated lesson was that an FDE needs three abilities at the same time:
 2. build a working slice quickly with AI;
 3. move the customer from a working slice to a reusable operating capability.
 
-FDE Camp turns this field experience into a concentrated training, assessment, certification, and project-matching path.
+ANC Camp (formerly FDE Camp) turns this field experience into concentrated learning, case discussion and hands-on ANC building. Assessment arrangements for the upcoming Shanghai cohort remain subject to confirmation in program.md. Customer introductions and project matching are not included benefits.
 
 ## Positive language for introductions
 

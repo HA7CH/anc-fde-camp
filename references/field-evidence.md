@@ -49,8 +49,4 @@ This case supports these statements:
 
 ## Wording for prospective participants
 
-Use wording such as:
-
-> Before the first formal paid cohort, HA7CH worked with an experienced digital-transformation practitioner as a zero-cohort member. HA7CH taught the FDE and ANC method, provided continuing consultation, and introduced at least three industrial customer opportunities suited to that person's background. The formal Camp turns this working pattern into a repeatable route through training, Whiteboard Interview, certification, talent-pool entry, and project matching.
-
-The individual client count and delivery result remain the outcome of this one case. The formal program mechanism is the Certified talent pool and matching process described in `program.md`.
+Before the first formal paid cohort, HA7CH worked with an experienced digital-transformation practitioner. This individual reported mentoring and industrial customer introductions. It is a historical case, not the current course offer. ANC Camp focuses on learning and building an ANC; it does not promise customer resources, project matching, placements or assignments. See [the current program](program.md) for current boundaries and Shanghai details.

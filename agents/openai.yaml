@@ -1,4 +1,4 @@
 interface:
-  display_name: "HA7CH FDE Camp"
-  short_description: "介绍 HA7CH FDE Camp、ANC 方法、认证、人才池与项目路径"
-  default_prompt: "使用 $fde-camp 介绍 HA7CH FDE Camp，并回答我关于门槛、课程、认证、人才池和项目机会的问题。"
+  display_name: "ANC Camp"
+  short_description: "了解 ANC Camp、上海场与个人适合程度"
+  default_prompt: "Use $anc-camp to explain the current Shanghai cohort, assess my readiness, and clarify human consultation and registration steps."

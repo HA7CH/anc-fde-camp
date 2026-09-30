@@ -1,0 +1,20 @@
+{
+  "name": "anc-camp-public-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test scripts/build.test.mjs",
+    "deploy": "wrangler deploy",
+    "verify:live": "node scripts/verify-live.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "markdown-it": "14.3.2"
+  },
+  "devDependencies": {
+    "wrangler": "4.143.1"
+  }
+}

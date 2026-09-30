@@ -1,59 +1,28 @@
-# FDE Camp program reference
+# ANC Camp · 课程与上海场咨询资料
 
-## Contents
+更新日期：2026-09-29。ANC Camp 旧称 FDE Camp。
 
-- Current Beijing cohort
-- Who it is for
-- What happens in the Camp
-- Five field-case families
-- Graduation and certification
-- What a graduate receives
-- Course scope
-- Clear answers to common questions
+## 下一场：上海 2026-10-17 至 2026-10-18
 
-## One-sentence definition
+- 城市与日期：上海，2026年10月17–18日，线下两天。
+- 具体场地、每日签到与课程时间：待公布。
+- 上海场费用、名额、包含项目、餐饮住宿、退改与转让条款、发票安排：待公布，不套用北京场。
+- 不接支付系统不等于免费。本网站不收款、不代办报名、不保留名额。
+- 公开咨询渠道：Lawted，微信 `lawted`。原公开 Skill 与 program 均列有此咨询联系方式；上海场具体报名步骤、可报名状态与交易条款仍需向主办方确认。
+- 可添加微信咨询并说明“ANC Camp 上海 2026-10-17–18”，附上自己的 Codex 使用经验和希望解决的企业问题。这是建议咨询内容，不是报名口令，也不代表报名已提交或录取。
+- 安排行程或付款前，先确认最新场地、时间和费用等细节。
 
-FDE Camp is HA7CH Academy's two-day in-person field training for FDEs and AI Builders. Participants learn to understand an enterprise, identify real problems, design an AI operating architecture, and move a delivery forward.
+## 历史场次
 
-## Current Beijing cohort
+原公开资料记载深圳场已于2026-09-13结束，北京场日期为2026-09-26至27日。两场均不是下一场；北京场的价格、场地、时间、名额及退改安排不适用于尚未公布相应条款的上海场。
 
-Cohort status confirmed on 2026-09-14: the Shenzhen cohort ended on 2026-09-13. The next cohort is Beijing, starting on 2026-09-26. Do not present the Shenzhen cohort as upcoming or open for registration.
+## 课程定位
 
-The following Beijing logistics were published as of 2026-09-04; the new confirmation does not change the other published details:
-
-- Date: 2026-09-26 to 2026-09-27
-- City: Beijing
-- Format: two days and one night (两天一夜); accommodation is not included.
-- Day 1 focus: lectures and case discussion on ANC and enterprise AI collaboration.
-- Day 2 focus: hands-on practice; each participant builds their own ANC.
-- Day 1: check-in at 09:30; course from 10:00 to 18:00
-- Day 2: course from 09:00 to 17:30
-- Cohort size: no more than 24 participants
-- Price: RMB 12,800 per person
-- Included: tea breaks, snacks, and one free Whiteboard Interview reassessment
-- Not included: lunch, accommodation, or round-trip transportation
-- Lunch break: 75 minutes; participants arrange and pay for their own lunch
-- Accommodation: not arranged centrally; participants make and pay for their own arrangements
-- Reassessment timing and process: being finalized
-- Cancellation and transfer policy:
-  - cancel by 24:00 on 2026-09-19 for a full refund;
-  - cancel from 2026-09-20 through 2026-09-25 with 20% of the tuition retained for the reserved seat and preparation costs;
-  - cancellations after the Camp begins and no-shows are non-refundable;
-  - a participant may request to transfer the seat before the Camp, but the replacement must complete and pass the same admission review;
-  - if HA7CH cancels or postpones the Camp, the tuition is refunded in full.
-- Exact venue, registration contact, payment process, invoicing, and any transaction-fee treatment: being finalized
-
-Treat these as time-sensitive published details and encourage the participant to confirm the latest logistics before payment or travel.
-
-## Reusable poster and current consultation
-
-Organizer update: use `anc CAMP` as the reusable poster title. Posters show duration and price, not city or calendar dates. Current Beijing consultation remains September 26–27, 2026. Poster copy must not offer follow-up project introductions or on-site placement.
-
-The public Skill is at https://github.com/HA7CH/anc-fde-camp. Scan to obtain and load the Skill, then discuss personal readiness; this is advice, not automatic admission. Registration WeChat: `lawted`.
+ANC Camp 是 HA7CH 面向 FDE 与 AI Builder 的线下训练。沿用原课程设计：第一天讲解 ANC 与企业 AI 案例，第二天动手搭建个人 ANC。具体上海场每日流程待公布。
 
 ## Who it is for
 
-Admission is decided through an AI registration conversation followed by human review.
+The published program uses an AI readiness conversation followed by human admission review. This public Skill offers the readiness conversation only; it does not send an application to the organizer.
 
 The primary audience has already built AI applications, Agents, or SaaS (the "leaves"), has experienced heavy custom delivery and repeated integration, and wants to learn the shared ANC "trunk". Working ability to use Codex independently is required. This is not a zero-beginner Codex class; recommend ha7ch-school first for someone who cannot yet use Codex independently. Do not invent ha7ch-school pricing, schedule, curriculum or enrollment links. Explain suitability from actual examples and goals, not a numeric fit score. Human admission review remains required.
 
@@ -106,58 +75,16 @@ An HDC Project IC at this baseline can:
 
 The cases train judgment and delivery method; they do not offer participation in the referenced customer projects.
 
-## Graduation and certification
+## Assessment and learning materials
 
-Early cohorts use a human-led `HA7CH FDE Whiteboard Interview`.
+The published general program uses a human-led HA7CH FDE Whiteboard Interview: problem clarification, solution decomposition, architecture and Context design, validation, delivery and commercial judgment. The original program describes HA7CH FDE Certified for participants who meet its assessment requirements, alongside ANC Skills and templates.
 
-The participant receives an enterprise scenario and works through:
-
-- problem clarification;
-- decomposition into a deliverable solution;
-- architecture and Context design;
-- validation and delivery path;
-- commercial judgment and customer communication;
-- live follow-up questions from the interviewers.
-
-For the current Beijing cohort:
-
-- the Whiteboard Interview is an individual 30-minute assessment;
-- the expected structure is a 20-minute presentation followed by 10 minutes of questions;
-- at least two human examiners assess each participant;
-- the assessment uses a 100-point scale with a 70-point graduation line;
-- the number of successful participants is not capped; everyone who meets the same line passes;
-- one free reassessment opportunity is included.
-
-Participants who complete the Camp and meet the graduation line receive `HA7CH FDE Certified`.
-
-The exact weighted rubric, named interview panel, result-delivery timing, reassessment booking process, credential format, and verification method are being finalized.
-
-The current Beijing cohort includes one free reassessment opportunity. Its timing, booking process, and eligibility conditions are being finalized.
-
-## What a graduate receives
-
-- a field method for diagnosing, designing, and advancing enterprise AI delivery;
-- the original ANC Skills and supporting templates used in the Camp;
-- continuing updates to those Skills and templates;
-- `HA7CH FDE Certified` after passing the graduation assessment;
-- a personal ANC built during Day 2 hands-on practice.
-
-The delivery repository, access method, update notices, and version-support process for the ANC materials are being finalized.
+Shanghai-specific assessment duration, panel, scoring, graduation criteria, reassessment terms, credential delivery and learning-material access arrangements are still to be confirmed. Beijing-specific assessment terms are not Shanghai commitments. Attendance alone does not guarantee certification.
 
 ## Course scope
 
-The current course offer is learning, cases, and hands-on ANC building. Do not describe later customer introductions, project matching, on-site opportunities, or Sprint candidate pools as included benefits. Older twelve-month promotional material is not the current sales offer. Historical participant stories do not create a promise to new participants.
+The offer is learning, case discussion, and hands-on ANC building. There is no promise of customer introductions, later project matching, employment, on-site opportunities or project assignments. Historical participant stories are individual evidence, not course benefits or guaranteed results.
 
-## Clear answers to common questions
+## Sources and use
 
-### Does the Camp include follow-up project opportunities?
-
-The current course offer focuses on learning and building an ANC. Do not offer customer introductions, on-site placements, or project assignments.
-
-### What does the certificate mean?
-
-`HA7CH FDE Certified` is HA7CH's endorsement that the person completed the training and met the current baseline for entering real enterprise FDE work. Its credibility grows through field delivery, project evidence, and enterprise feedback.
-
-### What will I take home immediately?
-
-The participant practices the FDE and ANC method and builds a personal ANC. Published learning materials and assessment details remain subject to their stated scope; later project opportunities are not part of this offer.
+The course description and consultation contact derive from the original public [HA7CH ANC Camp repository](https://github.com/HA7CH/anc-fde-camp). Shanghai city and dates were confirmed by the organizer on 2026-09-29. This published page separates that current cohort update from historical cohort terms. Use [the public Skill](../SKILL.md) for readiness and course consultation.

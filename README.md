@@ -1,56 +1,34 @@
-# HA7CH FDE Camp
+# ANC Camp
 
-An open Agent Skill that introduces HA7CH FDE Camp and answers prospective-participant questions about the story, FDE and ANC methods, requirements, curriculum, Whiteboard Interview, certification, suitability, hands-on ANC building, and current cohort.
+ANC Camp（旧称 FDE Camp）的公开咨询介绍 Skill。下一场为上海 2026年10月17–18日；场地、每日时间、费用及具体报名条款待公布。公开咨询微信：`lawted`。AI 对话不提交报名、不保留名额；不接支付系统不代表免费。
 
-The conversation starts with why HA7CH came here and what it did before, then explains how the Camp turns that field experience into a training and project path.
+- 官网：https://camp.ha7ch.com/
+- Skill：https://camp.ha7ch.com/SKILL.md
+- 课程原文：[references/program.md](references/program.md)
 
-## Install
+把 Skill 网址交给 Agent，要求读取正文及引用后讨论课程与个人适合程度。也可通过兼容工具安装本仓库的 `anc-camp` Skill。旧 FDE Camp 名称保留为主题别名。
 
-Ask Codex or another compatible coding agent:
+## 唯一维护源
 
-> Install the Skill from https://github.com/HA7CH/anc-fde-camp
+只修改根目录 `SKILL.md` 和 `references/*.md`，不维护另一套网站正文。`site/index.html` 仅保存首页模板；场次及课程内容直接从 `references/program.md` 渲染。`npm run build` 将原始 Markdown 原样复制到 `dist`，并生成首页。`dist` 不入库，不手工修改。
 
-Or use the Skills CLI:
-
-```bash
-npx skills add HA7CH/anc-fde-camp --skill fde-camp
+```sh
+npm ci
+npm test
+npm run build
+npx wrangler deploy --dry-run
 ```
 
-After installation, ask the Agent:
+## 提交触发发布
 
-> Use $fde-camp to introduce HA7CH FDE Camp and answer my questions about whether my existing AI application experience and delivery challenges fit the Camp, what Codex skills I need, and what I will build.
+计划使用现有 `anc-camp` Worker 的 Cloudflare Workers Builds Git 集成：仓库 `HA7CH/anc-fde-camp`，生产分支 `main`，根目录 `/`，构建命令 `npm test && npm run build`，部署命令 `npx wrangler deploy`。只绑定 `camp.ha7ch.com`。不使用定时任务。Git 连接需在 Cloudflare 中实际启用；单独提交此配置并不会自动创建连接。
 
-The Skill is also available through `/fde-camp` in environments that expose installed Skills as slash commands.
+集成启用后正常提交至 main 触发部署；拉取请求用于审查与本地验证，不向生产域名发布。发布后对该次提交运行 `npm run build && npm run verify:live`，确认 Skill、全部引用、许可证和首页与该提交一致。Cloudflare Builds 应同时显示对应的 Git 提交和成功部署记录。
 
-## What it covers
+当前状态：单源构建及部署配置已备妥。Cloudflare Builds 创建 Git 连接返回认证错误（10000），提交自动部署尚未启用。当前版本由维护者从已提交源码手动部署；`release.json` 记录该次构建的 Git 提交与公开文件哈希，不能把它当作自动触发证据。恢复 Builds 连接后按以上设置启用，并通过一次正常提交核验触发记录与公网内容。
 
-- Why HA7CH created FDE Camp
-- What HA7CH learned in enterprise fieldwork
-- The relationship between FDE, ANC, the trunk, and the leaves
-- Who the Camp is for and what participants need
-- Two-day, one-night curriculum and field cases
-- HA7CH FDE Whiteboard Interview
-- HA7CH FDE Certified
-- Suitability for builders facing heavy custom delivery
-- Day 2: build your own ANC
-- One anonymized zero-cohort field case
-- Current cohort facts and registration route
-
-Current logistics carry an as-of date in the Skill. Update the Skill to receive the latest published version:
-
-```bash
-npx skills update fde-camp
-```
-
-Enrollment, payment, outreach, and customer introductions continue through HA7CH's current channels and require the user's explicit action.
-
-## Development
-
-```bash
-python3 /path/to/skill-creator/scripts/quick_validate.py .
-npx skills add . --list
-```
+[Cloudflare Workers Builds 配置说明](https://developers.cloudflare.com/workers/ci-cd/builds/configuration/)
 
 ## License
 
-MIT.
+MIT. 课程定位、历史案例及人工审核边界见 Skill 和引用正文。
