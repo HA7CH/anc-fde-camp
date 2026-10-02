@@ -1,24 +1,23 @@
 # ANC Camp · 课程与上海场咨询资料
 
-更新日期：2026-09-29。ANC Camp 旧称 FDE Camp。
+更新日期：2026-10-02。ANC Camp 旧称 FDE Camp。
 
 ## 下一场：上海 2026-10-17 至 2026-10-18
 
 - 城市与日期：上海，2026年10月17–18日，线下两天。
-- 具体场地、每日签到与课程时间：待公布。
-- 上海场费用、名额、包含项目、餐饮住宿、退改与转让条款、发票安排：待公布，不套用北京场。
-- 不接支付系统不等于免费。本网站不收款、不代办报名、不保留名额。
-- 公开咨询渠道：Lawted，微信 `lawted`。原公开 Skill 与 program 均列有此咨询联系方式；上海场具体报名步骤、可报名状态与交易条款仍需向主办方确认。
+- 每天课程时间：10:00–18:00。具体场地与签到安排待公布。
+- 费用：12,800 元/人，各场统一。名额、包含项目、餐饮住宿、退改与转让条款、发票安排待公布。
+- 本网站不收款、不代办报名、不保留名额。需要报名或付款，请私信 Lawted（微信 `lawted`）沟通；上海场具体报名步骤、可报名状态与交易条款仍需向主办方确认。
 - 可添加微信咨询并说明“ANC Camp 上海 2026-10-17–18”，附上自己的 Codex 使用经验和希望解决的企业问题。这是建议咨询内容，不是报名口令，也不代表报名已提交或录取。
-- 安排行程或付款前，先确认最新场地、时间和费用等细节。
+- 安排行程或付款前，先确认场地、名额和交易条款等尚未公布的细节。
 
 ## 历史场次
 
-原公开资料记载深圳场已于2026-09-13结束，北京场日期为2026-09-26至27日。两场均不是下一场；北京场的价格、场地、时间、名额及退改安排不适用于尚未公布相应条款的上海场。
+原公开资料记载深圳场已于2026-09-13结束，北京场日期为2026-09-26至27日。两场均不是下一场；历史场次的场地、名额及退改安排不适用于上海场。
 
 ## 课程定位
 
-ANC Camp 是 HA7CH 面向 FDE 与 AI Builder 的线下训练。沿用原课程设计：第一天讲解 ANC 与企业 AI 案例，第二天动手搭建个人 ANC。具体上海场每日流程待公布。
+ANC Camp 是 HA7CH 面向 FDE 与 AI Builder 的线下训练。第一天动手搭建自己的 ANC；第二天看懂企业并设计 AI 组织架构。每天 10:00–18:00；具体分时流程待公布。
 
 ## Who it is for
 
@@ -87,4 +86,4 @@ The offer is learning, case discussion, and hands-on ANC building. There is no p
 
 ## Sources and use
 
-The course description and consultation contact derive from the original public [HA7CH ANC Camp repository](https://github.com/HA7CH/anc-fde-camp). Shanghai city and dates were confirmed by the organizer on 2026-09-29. This published page separates that current cohort update from historical cohort terms. Use [the public Skill](../SKILL.md) for readiness and course consultation.
+The course description and consultation contact derive from the original public [HA7CH ANC Camp repository](https://github.com/HA7CH/anc-fde-camp). Shanghai city and dates were confirmed by the organizer on 2026-09-29; the course sequence, daily hours, tuition and payment consultation were confirmed on 2026-10-02. This published page separates current cohort facts from historical cohort terms. Use [the public Skill](../SKILL.md) for readiness and course consultation.

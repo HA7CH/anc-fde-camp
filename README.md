@@ -1,6 +1,6 @@
 # ANC Camp
 
-ANC Camp（旧称 FDE Camp）的公开咨询介绍 Skill。下一场为上海 2026年10月17–18日；场地、每日时间、费用及具体报名条款待公布。公开咨询微信：`lawted`。AI 对话不提交报名、不保留名额；不接支付系统不代表免费。
+ANC Camp（旧称 FDE Camp）的公开咨询介绍 Skill。下一场为上海 2026年10月17–18日，每天10:00–18:00，12,800元/人；场地及具体报名条款待公布。报名及付款请私信 Lawted，微信 `lawted` 沟通。AI 对话不提交报名、不保留名额，网站不接支付系统。
 
 - 官网：https://camp.ha7ch.com/
 - Skill：https://camp.ha7ch.com/SKILL.md
