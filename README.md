@@ -21,13 +21,9 @@ npx wrangler deploy --dry-run
 
 ## 提交触发发布
 
-计划使用现有 `anc-camp` Worker 的 Cloudflare Workers Builds Git 集成：仓库 `HA7CH/anc-fde-camp`，生产分支 `main`，根目录 `/`，构建命令 `npm test && npm run build`，部署命令 `npx wrangler deploy`。只绑定 `camp.ha7ch.com`。不使用定时任务。Git 连接需在 Cloudflare 中实际启用；单独提交此配置并不会自动创建连接。
+正常提交到 `main` 会触发 [GitHub Actions 工作流](.github/workflows/deploy.yml)：安装依赖、测试、从同一份 Markdown 构建网站，并使用 Wrangler 发布现有 `anc-camp` Worker。工作流只发布到 `camp.ha7ch.com`，拉取请求不会部署生产网站，也没有定时任务。
 
-集成启用后正常提交至 main 触发部署；拉取请求用于审查与本地验证，不向生产域名发布。发布后对该次提交运行 `npm run build && npm run verify:live`，确认 Skill、全部引用、许可证和首页与该提交一致。Cloudflare Builds 应同时显示对应的 Git 提交和成功部署记录。
-
-当前状态：单源构建及部署配置已备妥。Cloudflare Builds 创建 Git 连接返回认证错误（10000），提交自动部署尚未启用。当前版本由维护者从已提交源码手动部署；`release.json` 记录该次构建的 Git 提交与公开文件哈希，不能把它当作自动触发证据。恢复 Builds 连接后按以上设置启用，并通过一次正常提交核验触发记录与公网内容。
-
-[Cloudflare Workers Builds 配置说明](https://developers.cloudflare.com/workers/ci-cd/builds/configuration/)
+部署使用仓库级 Actions secrets `CLOUDFLARE_API_TOKEN` 和 `CLOUDFLARE_ACCOUNT_ID`。令牌只需 Workers Editor 权限；不要把密钥放进源码。工作流串行发布，并在部署前确认本次提交仍是 `main` 最新版本。发布后执行 `npm run verify:live`，对照该次提交检查 Skill、全部引用、许可证、首页和 `release.json`。
 
 ## License
 
