@@ -1,3 +1,4 @@
+
 name: Deploy ANC Camp
 
 on:
@@ -39,4 +40,11 @@ jobs:
           test -n "$CLOUDFLARE_ACCOUNT_ID"
           npx wrangler deploy
       - name: Verify public site against this commit
-        run: npm run verify:live
+        run: |
+          for attempt in 1 2 3 4 5 6 7 8 9 10 11 12; do
+            if npm run verify:live; then
+              exit 0
+            fi
+            sleep 5
+          done
+          exit 1
