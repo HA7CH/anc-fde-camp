@@ -21,7 +21,7 @@ test('build copies source exactly and keeps unapproved files out',async()=>{
   assert.match(html,/Updated cohort marker/);
   assert.match(html,/href="\/SKILL.md"/);
   assert.match(html,/上海/);
-  assert.match(html,/2026-10-17/);
+  assert.match(html,/2026-10-24/);
   for(const file of files.filter(f=>f.endsWith('.md'))){
    const text=await readFile(join(dir,'dist',file),'utf8');
    for(const [,target] of text.matchAll(/\]\(([^)]+)\)/g)){

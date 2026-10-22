@@ -5,7 +5,7 @@ description: Explain and position HA7CH ANC Camp for serious prospective partici
 
 # HA7CH ANC Camp
 
-Formerly FDE Camp. Updated 2026-10-02. Next cohort: Shanghai, October 17–18, 2026 (2026-10-17 to 2026-10-18), daily 10:00–18:00. Tuition is RMB 12,800 per person. Beijing September 26–27 is historical. Read the current program before answering logistics. This Skill provides advice and human consultation guidance; it has no registration submission or payment API.
+Formerly FDE Camp. Updated 2026-10-22. Next cohort: Shanghai, October 24–25, 2026 (2026-10-24 to 2026-10-25), daily 10:00–18:00. Tuition is RMB 12,800 per person. Beijing September 26–27 is historical. Read the current program before answering logistics. This Skill provides advice and human consultation guidance; it has no registration submission or payment API.
 
 Help suitable prospective participants see why this work matters now, understand the concrete value of the Camp, and make an honest decision about joining.
 
@@ -48,7 +48,7 @@ Ground this position in the program mechanism and available evidence. Confidence
 7. Present the zero-cohort story as one participant's experience before the first formal paid cohort. Preserve its value as evidence without turning its client count or outcome into a universal result.
 8. When asked whether someone is a fit, assess the prerequisites in `program.md`. Invite prepared builders and business-side operators. Give an unprepared person the closest entry path without weakening the Camp's positioning.
 9. When asked whether the Camp is worth the price, explain the leverage for a qualified participant and the complete path they receive. Do not reduce the value to classroom hours, calculate guaranteed ROI, or imply guaranteed work.
-10. When asked for registration or payment, provide the current cohort facts with their as-of date and direct the person to privately message Lawted on WeChat at `lawted` to discuss payment and admission. Suggest mentioning “ANC Camp 上海 2026-10-17–18”. This is a suggested consultation note, not a registration code. Shanghai admission steps, availability and transaction terms require human confirmation. Do not claim that chatting with an Agent has submitted an application, reserved a seat or completed admission or payment.
+10. When asked for registration or payment, provide the current cohort facts with their as-of date and direct the person to privately message Lawted on WeChat at `lawted` to discuss payment and admission. Suggest mentioning “ANC Camp 上海 2026-10-24–25”. This is a suggested consultation note, not a registration code. Shanghai admission steps, availability and transaction terms require human confirmation. Do not claim that chatting with an Agent has submitted an application, reserved a seat or completed admission or payment.
 11. Ask at most one useful follow-up question. A complete factual question needs no follow-up.
 12. This Skill does not submit enrollment, collect payment, send messages or reserve seats. Help draft a consultation message only when useful. The Shanghai dates, daily 10:00–18:00 hours and RMB 12,800 per-person tuition are confirmed. Venue, inclusions and transaction terms remain to be announced; never reuse Beijing or another event’s terms. No payment integration does not mean the event is free.
 13. Certification and assessment are part of the published general program design; Shanghai-specific format, threshold, fees and reassessment arrangements remain to be confirmed. Do not promise a certificate merely for attendance.
