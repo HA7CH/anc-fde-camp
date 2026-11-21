@@ -20,8 +20,22 @@ test('build copies source exactly and keeps unapproved files out',async()=>{
   const html=await readFile(join(dir,'dist/index.html'),'utf8');
   assert.match(html,/Updated cohort marker/);
   assert.match(html,/href="\/SKILL.md"/);
-  assert.match(html,/上海/);
-  assert.match(html,/2026-10-24/);
+  assert.match(html,/<title>ANC Camp · 课程与咨询<\/title>/);
+  assert.match(html,/<meta name="description" content="ANC Camp 公开课程、下一期公布状态与适合度咨询">/);
+  const current = html.match(/<h2>下一期待公布<\/h2>([\s\S]*?)<h2>往期公告<\/h2>/)?.[1];
+  assert.ok(current);
+  assert.match(current,/https:\/\/ha7ch\.com\/contact/);
+  assert.doesNotMatch(current,/深圳|北京|上海|Shanghai|2026|12,800|10:00|18:00|微信/);
+  const history = html.match(/<h2>往期公告<\/h2>([\s\S]*?)<h2>课程定位<\/h2>/)?.[1];
+  assert.ok(history);
+  assert.match(history,/深圳场：2026 年 9 月 13 日/);
+  assert.match(history,/北京场：2026 年 9 月 26–27 日/);
+  assert.match(history,/上海场：2026 年 10 月 24–25 日/);
+  assert.doesNotMatch(html.replace(history,''),/深圳|北京|上海|Shanghai|12,800|10:00|18:00/);
+  for(const file of ['README.md','agents/openai.yaml','SKILL.md','references/story.md','references/field-evidence.md']){
+   const source=await readFile(join(root,file),'utf8');
+   assert.doesNotMatch(source,/上海|Shanghai|12,800|10:00|18:00|2026-10-24/,file);
+  }
   for(const file of files.filter(f=>f.endsWith('.md'))){
    const text=await readFile(join(dir,'dist',file),'utf8');
    for(const [,target] of text.matchAll(/\]\(([^)]+)\)/g)){

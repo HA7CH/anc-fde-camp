@@ -49,4 +49,4 @@ This case supports these statements:
 
 ## Wording for prospective participants
 
-Before the first formal paid cohort, HA7CH worked with an experienced digital-transformation practitioner. This individual reported mentoring and industrial customer introductions. It is a historical case, not the current course offer. ANC Camp focuses on learning and building an ANC; it does not promise customer resources, project matching, placements or assignments. See [the current program](program.md) for current boundaries and Shanghai details.
+Before the first formal paid cohort, HA7CH worked with an experienced digital-transformation practitioner. This individual reported mentoring and industrial customer introductions. It is a historical case, not the current course offer. ANC Camp focuses on learning and building an ANC; it does not promise customer resources, project matching, placements or assignments. See [the current program](program.md) for current course scope and cohort status.

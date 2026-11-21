@@ -1,23 +1,22 @@
-# ANC Camp · 课程与上海场咨询资料
+# ANC Camp · 课程与咨询
 
-更新日期：2026-10-22。ANC Camp 旧称 FDE Camp。
+更新日期：2026-11-21。ANC Camp 旧称 FDE Camp。
 
-## 下一场：上海 2026-10-24 至 2026-10-25
+## 下一期待公布
 
-- 城市与日期：上海，2026年10月24–25日，线下两天。
-- 每天课程时间：10:00–18:00。具体场地与签到安排待公布。
-- 费用：12,800 元/人，各场统一。名额、包含项目、餐饮住宿、退改与转让条款、发票安排待公布。
-- 本网站不收款、不代办报名、不保留名额。需要报名或付款，请私信 Lawted（微信 `lawted`）沟通；上海场具体报名步骤、可报名状态与交易条款仍需向主办方确认。
-- 可添加微信咨询并说明“ANC Camp 上海 2026-10-24–25”，附上自己的 Codex 使用经验和希望解决的企业问题。这是建议咨询内容，不是报名口令，也不代表报名已提交或录取。
-- 安排行程或付款前，先确认场地、名额和交易条款等尚未公布的细节。
+下一期的时间、城市、费用和报名安排尚未公布。课程问题可通过 [HA7CH 官方联系页](https://ha7ch.com/contact) 向主办方咨询。此入口仅用于咨询；本站不收款、不代办报名、不保留名额。
 
-## 历史场次
+## 往期公告
 
-原公开资料记载深圳场已于2026-09-13结束，北京场日期为2026-09-26至27日。两场均不是下一场；历史场次的场地、名额及退改安排不适用于上海场。
+以下为原公开资料所列日期，仅作历史参考，不代表下一期安排：
+
+- 深圳场：2026 年 9 月 13 日（原公告所列结束日期）。
+- 北京场：2026 年 9 月 26–27 日。
+- 上海场：2026 年 10 月 24–25 日。
 
 ## 课程定位
 
-ANC Camp 是 HA7CH 面向 FDE 与 AI Builder 的线下训练。第一天动手搭建自己的 ANC；第二天看懂企业并设计 AI 组织架构。每天 10:00–18:00；具体分时流程待公布。
+ANC Camp 是 HA7CH 面向 FDE 与 AI Builder 的线下训练。第一天动手搭建自己的 ANC；第二天看懂企业并设计 AI 组织架构。
 
 ## Who it is for
 
@@ -78,7 +77,7 @@ The cases train judgment and delivery method; they do not offer participation in
 
 The published general program uses a human-led HA7CH FDE Whiteboard Interview: problem clarification, solution decomposition, architecture and Context design, validation, delivery and commercial judgment. The original program describes HA7CH FDE Certified for participants who meet its assessment requirements, alongside ANC Skills and templates.
 
-Shanghai-specific assessment duration, panel, scoring, graduation criteria, reassessment terms, credential delivery and learning-material access arrangements are still to be confirmed. Beijing-specific assessment terms are not Shanghai commitments. Attendance alone does not guarantee certification.
+Cohort-specific assessment and materials arrangements will be communicated by the organizer. Attendance alone does not guarantee certification.
 
 ## Course scope
 
@@ -86,4 +85,4 @@ The offer is learning, case discussion, and hands-on ANC building. There is no p
 
 ## Sources and use
 
-The course description and consultation contact derive from the original public [HA7CH ANC Camp repository](https://github.com/HA7CH/anc-fde-camp). Shanghai city and dates were confirmed by the organizer on 2026-09-29; the course sequence, daily hours, tuition and payment consultation were confirmed on 2026-10-02. This published page separates current cohort facts from historical cohort terms. Use [the public Skill](../SKILL.md) for readiness and course consultation.
+This is the public course and cohort-status reference from the [HA7CH ANC Camp repository](https://github.com/HA7CH/anc-fde-camp). Use [the public Skill](../SKILL.md) for readiness and course consultation.
