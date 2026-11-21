@@ -1,4 +1,4 @@
 interface:
   display_name: "ANC Camp"
-  short_description: "了解 ANC Camp、上海场与个人适合程度"
-  default_prompt: "Use $anc-camp to explain the current Shanghai cohort, assess my readiness, and clarify human consultation and registration steps."
+  short_description: "了解 ANC Camp、下一期状态与个人适合程度"
+  default_prompt: "Use $anc-camp to explain ANC Camp, assess my readiness, and check the current cohort status in the published program."
